@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\ao191\Desktop\bin3\CS112-Final-Questions\FinalQuest\FinalQuest\main.cpp(34,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ao191\Desktop\bin3\CS112-Final-Questions\FinalQuest\FinalQuest\main.cpp(36,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ao191\Desktop\bin3\CS112-Final-Questions\FinalQuest\FinalQuest\main.cpp(80,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ao191\Desktop\bin3\CS112-Final-Questions\FinalQuest\FinalQuest\main.cpp(83,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ao191\Desktop\bin3\CS112-Final-Questions\FinalQuest\FinalQuest\main.cpp(118,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ao191\Desktop\bin3\CS112-Final-Questions\FinalQuest\FinalQuest\main.cpp(120,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ao191\Desktop\bin3\CS112-Final-Questions\FinalQuest\FinalQuest\main.cpp(132,20): warning C4018: '>': signed/unsigned mismatch
+  FinalQuest.vcxproj -> C:\Users\ao191\Desktop\bin3\CS112-Final-Questions\FinalQuest\Debug\FinalQuest.exe
